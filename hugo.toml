@@ -1,0 +1,29 @@
+languageCode = 'en-us'
+title = 'CS 390 Web App Programming'
+theme = 'flat'
+baseURL = ""
+
+[[params.auth]]
+name = "Arnav Mehra"
+email = "mehra23@purdue.edu"
+url = "https://arnavmehra.com/"
+
+[[params.auth]]
+name = "Sagar Patil"
+email = "patilsr@purdue.edu"
+url = "https://sagarpatil.me/"
+
+[[menus.main]]
+name = "Syllabus"
+url = "/syllabus/"
+weight = 30
+
+[[menus.main]]
+name = "Homework"
+url = "/homework/"
+weight = 40
+
+[[menus.main]]
+name = "Slides"
+url = "/slides/"
+weight = 40

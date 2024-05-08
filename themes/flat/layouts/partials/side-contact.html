@@ -1,0 +1,13 @@
+<div class="side-recent">
+    <h2 class="side-title">
+        <div>Instructors</div>
+    </h2>
+    <hr />
+    <ul>
+        {{ range .Site.Params.auth }}
+            <li>
+                <a href="{{.url}}" target="_blank">{{.name}} ({{.email}})</a>
+            </li>
+        {{ end }}
+    </ul>
+</div>
