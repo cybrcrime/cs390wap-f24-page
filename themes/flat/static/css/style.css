@@ -698,7 +698,7 @@ body {
 /**********/
 
 .archive-hint {
-  padding-left: var(--len-4);
+  padding-left: var(--len-3);
   color: var(--color-fg-font-quote);
 }
 

@@ -38,19 +38,19 @@
 
 {{/* load mermaid if any mermaid code block */}}
 {{ if .Page.Store.Get "hasMermaid" }}
-    <script src="{{ "js/meraid-9.0.0.min.js" | relURL }}"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.0/dist/mermaid.min.js" integrity="sha256-stuqcu2FrjYCXDOytWFA5SoUE/r3nkp6gTglzNSlavU=" crossorigin="anonymous"></script>
     <script>mermaid.initialize({ startOnLoad: true });</script>
 {{ end }}
 
 {{/* load katex if enabled on front matter */}}
 {{ if .Params.katex }}
-    <link rel="stylesheet" href="{{ "lib/katex/katex.min.css" | relURL }}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css" integrity="sha384-wcIxkf4k558AjM3Yz3BBFQUbk/zgIYC2R0QpeeYb+TwlBVMrlgLqwRjRtGZiK7ww" crossorigin="anonymous">
 
     <!-- The loading of KaTeX is deferred to speed up page rendering -->
-    <script defer src="{{ "lib/katex/katex.min.js" | relURL }}"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js" integrity="sha384-hIoBPJpTUs74ddyc4bFZSM1TVlQDA60VBbJS0oA934VSz82sBx1X7kSx2ATBDIyd" crossorigin="anonymous"></script>
 
     <!-- To automatically render math in text elements, include the auto-render extension: -->
-    <script defer src="{{ "lib/katex/contrib/auto-render.min.js" | relURL }}"
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"
         onload="renderMathInElement(document.querySelector('body .single .content'));"></script>
 {{ end }}
 
@@ -73,7 +73,5 @@
     </script>
 {{ end }}
 
-<link rel="stylesheet" href="{{ "lib/icofont/icofont.min.css" | relURL }}" />
-<link rel="stylesheet" href="{{ "css/syntax.css" | relURL }}" />
 <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
 <link rel="shortcut icon" href="{{ "images/favicon.ico" | relURL }}" type="image/x-icon" />
