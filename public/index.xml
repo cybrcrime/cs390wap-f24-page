@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CS 390 Web App Programming</title>
+    <link>/</link>
+    <description>Recent content on CS 390 Web App Programming</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homework 6: CTF</title>
+      <link>/homework/hw6/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/homework/hw6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hosting</title>
+      <link>/slides/lec27/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Security Part 3 (Cross-Site Scripting)</title>
+      <link>/slides/lec26/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Security Part 2 (Authentication, Authorization)</title>
+      <link>/slides/lec25/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homework 5: Express &#43; MongoDB</title>
+      <link>/homework/hw5/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/homework/hw5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Security Part 1 (Password Storage)</title>
+      <link>/slides/lec24/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full-Stack Practice Continued (Gravity Sim &#43; Multiplayer)</title>
+      <link>/slides/lec23/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full-Stack Practice (Gravity Sim Login)</title>
+      <link>/slides/lec22/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MongoDB Part 2 (Schemas w/ Mongoose)</title>
+      <link>/slides/lec21/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MongoDB Part 1 (Intro, CRUD)</title>
+      <link>/slides/lec20/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Express Part 2 (Middleware)</title>
+      <link>/slides/lec19/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homework 4: React</title>
+      <link>/homework/hw4/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/homework/hw4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Express Part 1 (Routers)</title>
+      <link>/slides/lec18/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networks (DNS, HTTP Methods, WebSockets, JS Fetch)</title>
+      <link>/slides/lec17/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React Practice (Rewriting Gravity Sim)</title>
+      <link>/slides/lec16/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React Part 2 (Component Lifecycle, Hooks, Router)</title>
+      <link>/slides/lec15/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homework 3: Custom Frontend Library</title>
+      <link>/homework/hw3/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/homework/hw3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React Part 1 (Intro, JSX, Conditionals, Arrays)</title>
+      <link>/slides/lec14/</link>
+      <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a Frontend Library Part 6 (Lists)</title>
+      <link>/slides/lec13/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a Frontend Library Part 5 (Conditionals)</title>
+      <link>/slides/lec12/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a Frontend Library Part 4 (Components, Lifecycle Continued)</title>
+      <link>/slides/lec11/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a Frontend Library Part 3 (Components, Lifecycle)</title>
+      <link>/slides/lec10/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homework 2: JS</title>
+      <link>/homework/hw2/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/homework/hw2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a Frontend Library Part 2 (States, Reactivity)</title>
+      <link>/slides/lec9/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a Frontend Library Part 1 (Elements, Components)</title>
+      <link>/slides/lec8/</link>
+      <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JS Practice Continued (Gravity Sim)</title>
+      <link>/slides/lec7/</link>
+      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JS Practice (Gravity Sim)</title>
+      <link>/slides/lec6/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JS Part 3 (Events, Forms)</title>
+      <link>/slides/lec5/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homework 1: HTML &#43; CSS</title>
+      <link>/homework/hw1/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/homework/hw1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JS Part 2 (DOM Manipulation)</title>
+      <link>/slides/lec4/</link>
+      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JS Part 1 (Intro, Basic Syntax)</title>
+      <link>/slides/lec3/</link>
+      <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>/slides/lec2/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>/slides/lec1/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/lec1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homework on CS 390 Web App Programming</title>
+    <link>/homework/</link>
+    <description>Recent content in Homework on CS 390 Web App Programming</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 May 2022 11:22:44 +0800</lastBuildDate><atom:link href="/homework/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homework 6: CTF</title>
+      <link>/homework/hw6/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/homework/hw6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homework 5: Express &#43; MongoDB</title>
+      <link>/homework/hw5/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/homework/hw5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homework 4: React</title>
+      <link>/homework/hw4/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/homework/hw4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homework 3: Custom Frontend Library</title>
+      <link>/homework/hw3/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/homework/hw3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homework 2: JS</title>
+      <link>/homework/hw2/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/homework/hw2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homework 1: HTML &#43; CSS</title>
+      <link>/homework/hw1/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/homework/hw1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
