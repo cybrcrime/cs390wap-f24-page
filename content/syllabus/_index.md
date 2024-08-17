@@ -10,7 +10,7 @@ show_recent: false
 
 # Course Syllabus
 
-Download the PDF version [here](/CS390-WAP_Fall_2024.pdf).
+Download the PDF version [here](https://arnav-mehra.github.io/cs390wap-f24/CS390-WAP_Fall_2024.pdf).
 
 ## Schedule
 
