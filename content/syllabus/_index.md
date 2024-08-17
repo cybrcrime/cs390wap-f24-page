@@ -10,7 +10,7 @@ show_recent: false
 
 # Course Syllabus
 
-Download the PDF version [here](/cs390wap-f24-syllabus.pdf).
+Download the PDF version [here](/data/cs390wap-f24-syllabus.pdf).
 
 ## Schedule
 
@@ -77,7 +77,7 @@ The first instance of academic dishonesty will result in a 0 on the assignment. 
 
 ## DRC Accommodations
 
-In order to make this course as student-friendly as possible, all lectures will be recorded and uploaded to Brightspace, attendance will not be recorded, there will be no exams / timed assessments, and no restrictions will be placed on seating, note-taking, etc.
+In order to make this course as student-friendly as possible, all lectures will be uploaded to Brightspace, attendance will not be recorded, there will be no exams / timed assessments, and no restrictions will be placed on seating, note-taking, etc.
 
 If you are a student (with accommodations) in need of extensions, preferred seating, or anything related, please notify an instructor and we will coordinate.
 
