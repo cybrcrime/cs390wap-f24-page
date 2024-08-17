@@ -10,7 +10,7 @@ show_recent: false
 
 # Course Syllabus
 
-Download the PDF version [here](/data/cs390wap-f24-syllabus.pdf).
+Download the PDF version [here](/CS390-WAP_Fall_2024.pdf).
 
 ## Schedule
 
